@@ -1,0 +1,1 @@
+console.log("Spice Garden Website Loaded!");
